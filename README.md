@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs,Python**
 
-- 🤝 I’m looking for help with **SGP-2**
+- 🤝 I’m looking for help with **SGP-3**
 
 - 🔗 My Site [https://sites.google.com/view/bhavyaprajapati/](https://sites.google.com/view/bhavyaprajapati/)
 
