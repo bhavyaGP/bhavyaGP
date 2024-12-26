@@ -23,8 +23,8 @@
 [![](https://visitcount.itsvg.in/api?id=bhavyaGP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
+<picture style="display: block; margin: 0 auto; max-width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg" style="width: 100%; height: auto;" />
 </picture>
