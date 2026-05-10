@@ -1,5 +1,6 @@
 # Hi, I'm Bhavya Prajapati 👋
 
+img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 ## 💫 About Me
 🔭 Currently working on MERN stack<br>
 👯 Looking to collaborate on open source<br>
@@ -10,7 +11,7 @@
 ---
 
 ## 💼 Current Position
-**Backend AI Engineer Intern** — CodemateAI (Remote) | Aug 2025 – Present
+**Backend AI Engineer Intern** — CodemateAI (Remote) 
 - Building an intelligent assistant platform leveraging OpenAI and Gemini SDK with embeddings for context-aware responses.
 - Designed and optimized Node.js/Express backend services with vector databases for 400+ active users.
 - Implemented embeddings-based semantic search and retrieval pipelines for improved accuracy and personalization.
