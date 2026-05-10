@@ -1,6 +1,6 @@
 # Hi, I'm Bhavya Prajapati 👋
 
-img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 ## 💫 About Me
 🔭 Currently working on MERN stack<br>
 👯 Looking to collaborate on open source<br>
