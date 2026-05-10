@@ -8,7 +8,7 @@
 💬 Ask me about CS fundamentals<br>
 ⚡ Fun fact: I think I am funny
 
----
+
 
 ## 💼 Current Position
 **Backend AI Engineer Intern** — CodemateAI (Remote) 
