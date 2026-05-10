@@ -9,6 +9,29 @@
 
 ---
 
+## 💼 Current Position
+**Backend AI Engineer Intern** — CodemateAI (Remote) | Aug 2025 – Present
+- Building an intelligent assistant platform leveraging OpenAI and Gemini SDK with embeddings for context-aware responses.
+- Designed and optimized Node.js/Express backend services with vector databases for 400+ active users.
+- Implemented embeddings-based semantic search and retrieval pipelines for improved accuracy and personalization.
+
+---
+
+## 🚀 Projects
+**[AI-Powered DevOps Automation Platform](https://www.youtube.com/watch?v=jItTasCJciE&t=3s)** (Flask, React.js, Jira API, OAuth2, Git API, LLM)
+- Implemented OAuth2 with Jira Cloud API for automated ticket parsing and requirement extraction.
+- Integrated GPT-4 for context-aware production-ready code generation and automated testing with lint compliance.
+- Built Git workflow automation with PR generation, test validation, and Jira status transitions achieving 80%+ coverage.
+
+**[QuickLearnAI](http://quicklearn.ai.in/)** (React.js, Express.js, Flask, WebSocket, Langchain, VectorDB, Llama-API, OAuth 2.0)
+- Implemented Langchain and Llama-API for intelligent content analysis and personalized learning materials.
+- Built responsive React.js frontend with Express.js/Flask backend, WebSocket real-time functionality, and OAuth 2.0 authentication.
+- Deployed VectorDB for efficient content storage and retrieval with optimized AI-driven responses.
+
+
+
+---
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ndtkkngF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavya5.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-prajapati-a8b001256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/5678_bhavya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bhavya5678)
 
