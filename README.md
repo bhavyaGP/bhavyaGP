@@ -5,10 +5,10 @@
 ## 💫 About Me
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150" />
-🔭 Currently working on MERN stack<br>
-👯 Looking to collaborate on open source<br>
-🌱 Currently learning React.js<br>
-💬 Ask me about CS fundamentals<br>
+🔭 Currently building QuickLearn AI - NextGen EdTech Learning Platform <br>
+🤝 Open to collaborating on open-source projects—especially around GenAI or Full-Stack Development <br>
+🌱 Learning: ReactJS, Shadcn/ui, NextJS, ExpressJS, MongoDB, GenAI, etc <br>
+💬 Happy to chat about AI or LLMs <br>
 ⚡ Fun fact: I think I am funny
 
 
