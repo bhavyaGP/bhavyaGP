@@ -1,17 +1,18 @@
 # Bhavya Prajapati
 
-**AI Engineer | Backend & Full-Stack Development**
+**AI Engineer | Full-Stack Development**
 
 B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building intelligent products and reliable web services, from backend APIs to AI-powered applications.
 
+- **Education:** B.Tech in Computer Engineering at CHARUSAT (2022-2026) 9.11/10 CGPA
 - **Currently:** AI Engineering Intern at ValuraAI
 - **Interests:** GenAI, backend engineering, full-stack development, and vector databases
 - **Email:** bgprajapati575@gmail.com
-- **LinkedIn:** [bhavya-prajapati-a8b001256](https://linkedin.com/in/bhavya-prajapati-a8b001256/)
+- **LinkedIn:** [bhavya-prajapati](https://www.linkedin.com/in/bhavya-prajapati1/)
 
 
 
-## 💼 Current Position
+##  Current Position
 **AI Engineering Intern** — ValuraAI
 - Telegram and WhatsApp assistant: a chat links to one financial account by Telegram deep link or Mini App, or by SMS code on WhatsApp.
 - One webhook routes Telegram, WhatsApp and website chat to the AI agent, with feature flags and flood limits.
@@ -20,7 +21,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-## 🧑‍💻 Experience
+##  Experience
 **Software Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Aug 2026
 - Guruverse AI Development: built an intelligent assistant platform on the OpenAI and Gemini SDKs with embedding models for context-aware responses.
 - Scalable Backend Engineering: designed and optimized backend services with Node.js, Express.js and vector databases for 400+ active users.
@@ -28,8 +29,8 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-## 🚀 Projects
-**[QuickLearnAI](http://quicklearn.ai.in/)** (React.js, Express.js, Flask, WebSocket, Langchain, VectorDB, Llama-API, OAuth 2.0)
+##  Projects
+**[QuickLearnAI](http://quicklearn.ai.in/)** (React.js, Express.js, Flask, WebSocket, Langchain, VectorDB, Llama-API, OAuth 2.0, Judge0)
 - Implemented Langchain and Llama-API for intelligent content analysis and personalized learning materials.
 - Built responsive React.js frontend with Express.js/Flask backend, WebSocket real-time functionality, and OAuth 2.0 authentication.
 - Deployed VectorDB for efficient content storage and retrieval with optimized AI-driven responses.
@@ -41,7 +42,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 - **1st Place**, HackTheSpring 2025 (Open Innovation): built a solution in 36 hours against 78 teams at GEC-28, Gandhinagar. (Feb 2025)
 - **Runner-Up**, YORK.ie Global Hackathon 2025 (AI Automation): 12-hour challenge in Ahmedabad. (May 2025)
 - **Runner-Up**, CVM University Hackathon 2025: presented QuickLearn AI, an AI-driven educational assistant.
@@ -49,12 +50,12 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-## 🌐 Socials
+##  Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ndtkkngF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavya5.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-prajapati-a8b001256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/5678_bhavya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bhavya5678)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,java,html,css,react,nodejs,express,nextjs,tailwind,bootstrap,django,graphql,mongodb,mysql,postgres,prisma,redis,docker,git,github,figma,vscode,postman,anaconda&perline=9" />
@@ -70,7 +71,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- Stats Card + Top Languages -->
 <p align="center">
@@ -134,7 +135,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 </p>
 
 <!-- Top Contributed Repos -->
-### 🔝 Top Contributed Repos
+###  Top Contributed Repos
 
 <p align="center">
   <picture>
@@ -146,7 +147,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <picture>
