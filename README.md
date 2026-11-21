@@ -47,6 +47,7 @@ Fun fact: I think I am funny
 - **1st Place**, HackTheSpring 2025 (Open Innovation): built a solution in 36 hours against 78 teams at GEC-28, Gandhinagar. (Feb 2025)
 - **Runner-Up**, YORK.ie Global Hackathon 2025 (AI Automation): 12-hour challenge in Ahmedabad. (May 2025)
 - **Runner-Up**, CVM University Hackathon 2025: presented QuickLearn AI, an AI-driven educational assistant.
+- **SSIP Grant**, ₹1,00,000: awarded for QuickLearn AI.
 
 ---
 
