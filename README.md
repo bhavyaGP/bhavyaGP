@@ -1,15 +1,13 @@
-# Hi, I'm Bhavya Prajapati 👋
+# Bhavya Prajapati
 
+**AI Engineer | Backend & Full-Stack Development**
 
+B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building intelligent products and reliable web services, from backend APIs to AI-powered applications.
 
-## About Me
-
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150" />
-Currently building QuickLearn AI - NextGen EdTech Learning Platform <br>
-Open to collaborating on open-source projects—especially around GenAI or Full-Stack Development <br>
-Learning: ReactJS, Shadcn/ui, NextJS, ExpressJS, MongoDB, GenAI, etc <br>
-Happy to chat about AI or LLMs <br>
-Fun fact: I think I am funny
+- **Currently:** AI Engineering Intern at ValuraAI
+- **Interests:** GenAI, backend engineering, full-stack development, and vector databases
+- **Email:** bgprajapati575@gmail.com
+- **LinkedIn:** [bhavya-prajapati-a8b001256](https://linkedin.com/in/bhavya-prajapati-a8b001256/)
 
 
 
