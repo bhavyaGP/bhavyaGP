@@ -2,14 +2,14 @@
 
 
 
-## 💫 About Me
+## About Me
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150" />
-🔭 Currently building QuickLearn AI - NextGen EdTech Learning Platform <br>
-🤝 Open to collaborating on open-source projects—especially around GenAI or Full-Stack Development <br>
-🌱 Learning: ReactJS, Shadcn/ui, NextJS, ExpressJS, MongoDB, GenAI, etc <br>
-💬 Happy to chat about AI or LLMs <br>
-⚡ Fun fact: I think I am funny
+Currently building QuickLearn AI - NextGen EdTech Learning Platform <br>
+Open to collaborating on open-source projects—especially around GenAI or Full-Stack Development <br>
+Learning: ReactJS, Shadcn/ui, NextJS, ExpressJS, MongoDB, GenAI, etc <br>
+Happy to chat about AI or LLMs <br>
+Fun fact: I think I am funny
 
 
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🧑‍💻 Experience
-**Backend AI Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Aug 2026
+**Software Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Aug 2026
 - Guruverse AI Development: built an intelligent assistant platform on the OpenAI and Gemini SDKs with embedding models for context-aware responses.
 - Scalable Backend Engineering: designed and optimized backend services with Node.js, Express.js and vector databases for 400+ active users.
 - AI Integration: implemented embeddings-based semantic search and retrieval pipelines for better accuracy and personalization.
@@ -31,17 +31,22 @@
 ---
 
 ## 🚀 Projects
-**[AI-Powered DevOps Automation Platform](https://www.youtube.com/watch?v=jItTasCJciE&t=3s)** (Flask, React.js, Jira API, OAuth2, Git API, LLM)
-- Implemented OAuth2 with Jira Cloud API for automated ticket parsing and requirement extraction.
-- Integrated GPT-4 for context-aware production-ready code generation and automated testing with lint compliance.
-- Built Git workflow automation with PR generation, test validation, and Jira status transitions achieving 80%+ coverage.
-
 **[QuickLearnAI](http://quicklearn.ai.in/)** (React.js, Express.js, Flask, WebSocket, Langchain, VectorDB, Llama-API, OAuth 2.0)
 - Implemented Langchain and Llama-API for intelligent content analysis and personalized learning materials.
 - Built responsive React.js frontend with Express.js/Flask backend, WebSocket real-time functionality, and OAuth 2.0 authentication.
 - Deployed VectorDB for efficient content storage and retrieval with optimized AI-driven responses.
 
+**[AI-Powered DevOps Automation Platform](https://www.youtube.com/watch?v=jItTasCJciE&t=3s)** (Flask, React.js, Jira API, OAuth2, Git API, LLM)
+- Implemented OAuth2 with Jira Cloud API for automated ticket parsing and requirement extraction.
+- Integrated GPT-4 for context-aware production-ready code generation and automated testing with lint compliance.
+- Built Git workflow automation with PR generation, test validation, and Jira status transitions achieving 80%+ coverage.
 
+---
+
+## 🏆 Achievements
+- **1st Place**, HackTheSpring 2025 (Open Innovation): built a solution in 36 hours against 78 teams at GEC-28, Gandhinagar. (Feb 2025)
+- **Runner-Up**, YORK.ie Global Hackathon 2025 (AI Automation): 12-hour challenge in Ahmedabad. (May 2025)
+- **Runner-Up**, CVM University Hackathon 2025: presented QuickLearn AI, an AI-driven educational assistant.
 
 ---
 
