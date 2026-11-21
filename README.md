@@ -14,23 +14,19 @@
 
 
 ## 💼 Current Position
-**Backend AI Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Present
-- Building Guruverse AI, an intelligent assistant platform using OpenAI and Gemini SDKs with embedding models for context-aware responses.
-- Designed and optimized Node.js/Express backend services with vector databases for 400+ active users.
-- Implemented embeddings-based semantic search and retrieval pipelines for improved accuracy and personalization.
+**AI Engineering Intern** — ValuraAI
+- Telegram and WhatsApp assistant: a chat links to one financial account by Telegram deep link or Mini App, or by SMS code on WhatsApp.
+- One webhook routes Telegram, WhatsApp and website chat to the AI agent, with feature flags and flood limits.
+- AI Screener: an LLM turns plain English into a typed filter, an engine runs it on stored market data, and results stream to the web app.
+- Screener UI in Next.js with a table, charts, a compare view and saved screens.
 
 ---
 
 ## 🧑‍💻 Experience
-**Backend AI Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Present
-- Guruverse AI: context-aware assistant built on OpenAI and Gemini SDKs with embedding models.
-- Backend services in Node.js and Express.js on vector databases, supporting 400+ active users.
-- Semantic search and retrieval pipelines for better answer accuracy and personalization.
-
-**Software Engineer Intern** — PlaypowerLabs (Remote) · Oct 2025 – Apr 2026
-- Built an AI agent that generates activities for Reading Planet, a graded reading program for children aged 3–11.
-- Developed features across a TypeScript and Express.js backend and a Next.js frontend, with Supabase for database and auth.
-- Worked with AWS Cognito, Lambda, DynamoDB, and API Gateway, plus Prismic for content management.
+**Backend AI Engineer Intern** — CodemateAI (Remote) · Aug 2025 – Aug 2026
+- Guruverse AI Development: built an intelligent assistant platform on the OpenAI and Gemini SDKs with embedding models for context-aware responses.
+- Scalable Backend Engineering: designed and optimized backend services with Node.js, Express.js and vector databases for 400+ active users.
+- AI Integration: implemented embeddings-based semantic search and retrieval pipelines for better accuracy and personalization.
 
 ---
 
